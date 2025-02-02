@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drumSkinner/static/css/main.13f5f33a.css",
+    "main.js": "/drumSkinner/static/js/main.7f8466b1.js",
+    "static/js/488.e6690f6d.chunk.js": "/drumSkinner/static/js/488.e6690f6d.chunk.js",
+    "index.html": "/drumSkinner/index.html",
+    "main.13f5f33a.css.map": "/drumSkinner/static/css/main.13f5f33a.css.map",
+    "main.7f8466b1.js.map": "/drumSkinner/static/js/main.7f8466b1.js.map",
+    "488.e6690f6d.chunk.js.map": "/drumSkinner/static/js/488.e6690f6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f5f33a.css",
+    "static/js/main.7f8466b1.js"
+  ]
+}
