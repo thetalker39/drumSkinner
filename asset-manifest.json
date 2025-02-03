@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/drumSkinner/static/css/main.c9721b33.css",
-    "main.js": "/drumSkinner/static/js/main.152bacb8.js",
+    "main.js": "/drumSkinner/static/js/main.3c971d8e.js",
     "static/js/488.e6690f6d.chunk.js": "/drumSkinner/static/js/488.e6690f6d.chunk.js",
     "index.html": "/drumSkinner/index.html",
     "main.c9721b33.css.map": "/drumSkinner/static/css/main.c9721b33.css.map",
-    "main.152bacb8.js.map": "/drumSkinner/static/js/main.152bacb8.js.map",
+    "main.3c971d8e.js.map": "/drumSkinner/static/js/main.3c971d8e.js.map",
     "488.e6690f6d.chunk.js.map": "/drumSkinner/static/js/488.e6690f6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9721b33.css",
-    "static/js/main.152bacb8.js"
+    "static/js/main.3c971d8e.js"
   ]
 }
